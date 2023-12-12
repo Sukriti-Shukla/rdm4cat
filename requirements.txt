@@ -6,7 +6,6 @@ backports.zoneinfo==0.2.1
 base-local-planner==1.17.2
 blinker==1.6.3
 bondpy==1.8.6
-catkin==0.8.10
 channels==4.0.0
 channels-redis==4.1.0
 click==8.1.7
