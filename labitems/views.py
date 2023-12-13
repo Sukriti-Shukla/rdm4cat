@@ -23,7 +23,7 @@ subtypes = {
         'MSDS': 'file',
         'URL': 'url',
         'Location': 'string',
-        'Purchased on': 'datetime',
+        # 'Purchased on': 'datetime',
         'Purchased by': 'string',
     },
     'Metal_salts': {
@@ -35,7 +35,7 @@ subtypes = {
         'MSDS': 'file',
         'URL': 'url',
         'Location': 'string',
-        'Purchased on': 'datetime',
+        # 'Purchased on': 'datetime',
         'Purchased by': 'string',
     },
     'Pure_gas': {
@@ -47,7 +47,7 @@ subtypes = {
         'MSDS': 'file',
         'URL': 'url',
         'Location': 'string',
-        'Purchased on': 'datetime',
+        # 'Purchased on': 'datetime',
         'Purchased by': 'string',
     },
     'Gas_mixture': {
@@ -59,7 +59,7 @@ subtypes = {
         'MSDS': 'file',
         'URL': 'url',
         'Location': 'string',
-        'Purchased on': 'datetime',
+        # 'Purchased on': 'datetime',
         'Purchased by': 'string',
     },
 }
